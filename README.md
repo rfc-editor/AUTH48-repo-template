@@ -1,7 +1,7 @@
 # RFC NNNN AUTH48
 This repository is for managing document updates for RFC NNNN during AUTH48. 
 
-Please see [Guidelines for contributions](https://github.com/rfc-editor/rfcNNNN-AUTH48/blob/main/CONTRIBUTING.md). The [IETF Note Well](https://github.com/rfc-editor/rfcNNNN-AUTH48/blob/main/note-well.md) applies.
+Please see the [License](https://github.com/rfc-editor/rfcNNNN-AUTH48/blob/main/LICENSE.md). The [IETF Note Well](https://github.com/rfc-editor/rfcNNNN-AUTH48/blob/main/note-well.md) applies.
 
 GitHub features that will be used:
 * Issue tracking
