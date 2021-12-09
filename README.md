@@ -24,6 +24,8 @@ The editor will close the issue when it has been addressed either by accepting a
 ## Pull Requests
 If you would like to submit changes, please create a pull request and identify one or more issues that the pull request closes in the comments. 
 
+If the editor creates the PR, the editor will assign a reviewer for the PR and will expect feedback from the reviewer before merging the PR. 
+
 For the ease of all reviewers, please do not use inline comments on pull requests.
    
 ## Viewing XML Outputs
