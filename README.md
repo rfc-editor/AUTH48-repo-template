@@ -1,5 +1,5 @@
 # RFC NNNN AUTH48
-This repository is for managing document updates for RFC NNNN during AUTH48. 
+This repository is for managing document updates for RFC NNNN during AUTH48. This is an [experiment of a GitHub-based process for AUTH48](https://www.rfc-editor.org/rpc/wiki/doku.php?id=github_auth48_experiments), and it emulates the [current AUTH48 procedure](https://www.rfc-editor.org/pubprocess/auth48/). 
 
 Please see the [License](https://github.com/rfc-editor/rfcNNNN-AUTH48/blob/main/LICENSE.md). The [IETF Note Well](https://github.com/rfc-editor/rfcNNNN-AUTH48/blob/main/note-well.md) applies.
 
@@ -11,7 +11,9 @@ GitHub features that will be used:
 Authors, AD, WG chairs, and document shepherd, please ensure that your GitHub notification settings are set such that you can participate promptly in discussions of issues and pull requests. For more information, please see [Configuring notifications](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications).
 
 ## Issue Tracking
-Questions and FYIs from the RFC Editor have been added as issues. Please provide your answers in the comments and use a label to indicate issue status:
+Questions and FYIs from the RFC Editor that are usually sent as an email message at the beginning of the [current AUTH48 procedure](https://www.rfc-editor.org/pubprocess/auth48/) have been added instead as GitHub issues.
+
+Please provide your answers in the comments and use a label to indicate issue status:
 * rfced - initial label of RFC Editor questions and FYIs (keep this label if the issue is still active).
 * question - a follow-up question has been added to the issue discussion. Use @mention to identify the participant who should answer. 
 * AD approval required - the resolution of the issue requires the AD to review and approve the change.
@@ -22,9 +24,11 @@ Feel free to add new issues for new edits and questions.
 The editor will close the issue when it has been addressed either by accepting a pull request or simply closing the issue if no changes are needed.  
 
 ## Pull Requests
-If you would like to submit changes, please create a pull request and identify one or more issues that the pull request closes in the comments. 
+When AUTH48 starts, the XML file will already include RFC Editor edits. This emulates the starting state of the [current AUTH48 procedure](https://www.rfc-editor.org/pubprocess/auth48/). 
 
-If the editor creates the PR, the editor will assign a reviewer for the PR and will expect feedback from the reviewer before merging the PR. 
+If you would like to submit changes to the document, please create a pull request and identify one or more issues that the pull request closes in the comments. 
+
+If the editor creates the PR in response to issue comments, the editor will assign a reviewer for the PR and will expect feedback from the reviewer before merging the PR. 
 
 For the ease of all reviewers, please do not use inline comments on pull requests.
    
@@ -60,3 +64,6 @@ Note that this repo is available only during AUTH48. Before the RFC publication 
 ## Contacting the RFC Editor
 For any questions or concerns, please contact rfc-editor@rfc-editor.org. 
 Note that push events will send notification messages to rfc-editor@rfc-editor.org. 
+
+## Reverting to the Email-based AUTH48 Process
+If for some reason a participant wants to stop using GitHub and wants to use the [current AUTH48 procedure](https://www.rfc-editor.org/pubprocess/auth48/), this can be accomodated. We have structured the repo and the experimental process to align with the current process and we can transition the AUTH48 from GitHub to email.  
