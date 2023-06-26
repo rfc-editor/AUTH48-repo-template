@@ -13,24 +13,24 @@ Authors, AD, WG chairs, and document shepherd, please ensure that your GitHub no
 ## Issue Tracking
 Questions and FYIs from the RFC Editor that are usually sent as an email message at the beginning of the [current AUTH48 procedure](https://www.rfc-editor.org/pubprocess/auth48/) have been added instead as GitHub issues.
 
+Use @mention to identify the participant who should answer.
+
 Please provide your answers in the comments and use a label to indicate issue status:
 * rfced - initial label of RFC Editor questions and FYIs (keep this label if the issue is still active).
-* question - a follow-up question has been added to the issue discussion. Use @mention to identify the participant who should answer. 
+* follow-up question - a follow-up question has been added to the issue discussion. Use @mention to identify the participant who should answer. 
 * AD approval required - the resolution of the issue requires the AD to review and approve the change.
-* editor-ready - the RFC Editor can update the document and/or close the issue based on the issue discussion.
+* rfced-ready - the RFC Editor can update the document and/or close the issue based on the issue discussion.
 
-Feel free to add new issues for new edits and questions. 
+Feel free to add new issues and PRs for new edits and questions. 
 
-The editor will close the issue when it has been addressed either by accepting a pull request or simply closing the issue if no changes are needed.  
+The RPC Editor will close the issue when it has been addressed either by accepting a pull request or simply closing the issue if no changes are needed.  
 
 ## Pull Requests
 When AUTH48 starts, the XML file will already include RFC Editor edits. This emulates the starting state of the [current AUTH48 procedure](https://www.rfc-editor.org/pubprocess/auth48/). 
 
-If you would like to submit changes to the document, please create a pull request and identify one or more issues that the pull request closes in the comments. 
+If you would like to submit changes, please create a pull request and identify one or more issues that the pull request closes in the comments. 
 
-If the editor creates the PR in response to issue comments, the editor will assign a reviewer for the PR and will expect feedback from the reviewer before merging the PR. 
-
-For the ease of all reviewers, please do not use inline comments on pull requests.
+If the RPC Editor creates the PR in response to issue comments, the RPC Editor will assign a reviewer for the PR and will expect feedback from the reviewer before merging the PR. 
    
 ## Viewing XML Outputs
 Output files may be viewed here:
@@ -38,9 +38,9 @@ Output files may be viewed here:
 * [https://www.rfc-editor.org/authors/rfcNNNN.html](https://www.rfc-editor.org/authors/rfcNNNN.html)
 * [https://www.rfc-editor.org/authors/rfcNNNN.pdf](https://www.rfc-editor.org/authors/rfcNNNN.txt)
    
-To create your own output files, use the [xml2rfc webservice](https://xml2rfc.tools.ietf.org/experimental.html) and select either the v3-plaintext or v3-HTML output options.
+To create your own output files, use the [IETF Author Tools webservice](https://author-tools.ietf.org/).
 
-If you would like guidance on using xml2rfc locally, please ask the editor. 
+If you would like guidance on using xml2rfc locally, please ask the RPC Editor. 
 
 ## Viewing Diffs
 Diffs via GitHub:
@@ -59,7 +59,7 @@ To approve your RFC for publication, **please reply to the AUTH48 email** statin
 The details of the AUTH48 status of the document are here: [https://www.rfc-editor.org/auth48/rfcNNNN](https://www.rfc-editor.org/auth48/rfcNNNN)
 
 ## About This Repo
-Note that this repo is available only during AUTH48. Before the RFC publication announcement is sent, this repo will be made private and archived. 
+Note that this repo is available only during AUTH48. This repo will be archived after the RFC publication announcement is sent. 
 
 ## Contacting the RFC Editor
 For any questions or concerns, please contact rfc-editor@rfc-editor.org. 
