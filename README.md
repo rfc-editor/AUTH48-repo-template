@@ -38,10 +38,10 @@ If the RFC Editor creates the PR in response to issue comments, the RFC Editor w
 
 (Include the following if file is markdown:) Once the content of the .md file is stable, the RPC will create an XML file. The following files will be provided for your review at that time:
 
-* [https://www.rfc-editor.org/authors/rfc9380.html](https://www.rfc-editor.org/authors/rfc9380.html)
-* [https://www.rfc-editor.org/authors/rfc9380.pdf](https://www.rfc-editor.org/authors/rfc9380.pdf)
-* [https://www.rfc-editor.org/authors/rfc9380.txt](https://www.rfc-editor.org/authors/rfc9380.txt)
-* [https://www.rfc-editor.org/authors/rfc9380.xml](https://www.rfc-editor.org/authors/rfc9380.xml)
+* [https://www.rfc-editor.org/authors/rfcNNNN.html](https://www.rfc-editor.org/authors/rfcNNNN.html)
+* [https://www.rfc-editor.org/authors/rfcNNNN.pdf](https://www.rfc-editor.org/authors/rfcNNNN.pdf)
+* [https://www.rfc-editor.org/authors/rfcNNNN.txt](https://www.rfc-editor.org/authors/rfcNNNN.txt)
+* [https://www.rfc-editor.org/authors/rfcNNNN.xml](https://www.rfc-editor.org/authors/rfcNNNN.xml)
    
 (Include the following if file is RFCXML:) ## Viewing XML Outputs
 Output files may be viewed here:
