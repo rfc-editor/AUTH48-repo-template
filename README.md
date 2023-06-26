@@ -34,7 +34,7 @@ When AUTH48 starts, the XML file will already include RFC Editor edits. This emu
 
 If you would like to submit changes, please create a pull request and identify one or more issues that the pull request closes in the comments. 
 
-If the RFC Editor creates the PR in response to issue comments, the RPC Editor will assign a reviewer for the PR and will expect feedback from the reviewer before merging the PR. 
+If the RFC Editor creates the PR in response to issue comments, the RFC Editor will assign a reviewer for the PR and will expect feedback from the reviewer before merging the PR. 
 
 (Include the following if file is markdown:) Once the content of the .md file is stable, the RPC will create an XML file. The following files will be provided for your review at that time:
 
