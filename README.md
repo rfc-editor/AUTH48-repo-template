@@ -13,7 +13,7 @@ Authors, AD, WG chairs, and document shepherd, please ensure that your GitHub no
 (Include the following if file is markdown:) This document is being edited in kramdown-rfc markdown.  Once the content is stable, the markdown will be converted to RFCXML and formatted as an RFC.  Your final approval means you approve both the content and format.
 
 ## Issue Tracking
-(Include the following if file is markdown:) The initial version of draftstring.md is the same as what was approved for publication. Various [PRs](https://github.com/rfc-editor/repo/pulls) and [issues](https://github.com/rfc-editor/repo/issues) are being added to the repo. The RFC Production Center's additional suggested updates have been added as PRs. Open-ended questions and FYIs have been added as issues. Please approve the PRs or propose alternate updates. For the issues, provide your answers in the comments or add PRs to address them.  We will @ the authors as the issues and PRs are ready for review.
+(Include the follong if file is markdown:) The initial version of draftstring.md is the same as what was approved for publication. Various [PRs](https://github.com/rfc-editor/repo/pulls) and [issues](https://github.com/rfc-editor/repo/issues) are being added to the repo. The RFC Production Center's additional suggested updates have been added as PRs. Open-ended questions and FYIs have been added as issues. Please approve the PRs or propose alternate updates. For the issues, provide your answers in the comments or add PRs to address them.  We will @ the authors as the issues and PRs are ready for review.
 
 (Include the following if file is RFCXML:) Questions and FYIs from the RFC Editor that are usually sent as an email message at the beginning of the [current AUTH48 procedure](https://www.rfc-editor.org/pubprocess/auth48/) have been added instead as GitHub issues.
 
@@ -65,7 +65,7 @@ Once the XML and output files have been created, the following diff files are av
 * [https://www.rfc-editor.org/authors/rfcNNNN-rfcdiff.html](https://www.rfc-editor.org/authors/rfcNNNN-rfcdiff.html) (all changes since the document entered the RFC Editor Queue side by side)
 
 ## Approving the Document
-(Include the following if file is markdown:) This document is being edited in kramdown-rfc markdown.  Once the content is stable, the markdown wi	ll be converted to RFCXML and formatted as an RFC.  Your final approval means you approve both the content and the format.
+(Include the following if file is markdown:) This document is being edited in kramdown-rfc markdown.  Once the content is stable, the markdown will be converted to RFCXML and formatted as an RFC.  Your final approval means you approve both the content and the format.
 
 To approve your RFC for publication, **please reply to the AUTH48 email** stating that you approve this RFC for publication.  Please use **REPLY ALL**, as all the parties CC’ed on the message need to see your approval.
 
